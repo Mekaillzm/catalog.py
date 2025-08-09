@@ -1,0 +1,12 @@
+id,text
+columns,Amount♣For Period♣Reciever♣Date♣Type♣Note
+itemName,Payment
+systemName,Payment-Log
+action1,pay
+state1,payed
+action2,un-pay
+state2,pay
+columnDTypes,int♣str♣str♣date♣str♣str
+lastColumnAndItemRelation,with note
+secondColumnAndItemRelation,given in
+defaultColumnValues,NaN♣Unknown♣Unknown♣today♣Outgoing♣-

@@ -1,0 +1,12 @@
+id,text
+columns,Date♣Amount♣Opened♣Note
+itemName,item
+systemName,catalog
+action1,action1
+state1,altered
+action2,action2
+state2,normal
+columnDTypes,date♣int♣str♣str
+lastColumnAndItemRelation,relating to
+secondColumnAndItemRelation,relating to
+defaultColumnValues,today♣0♣True♣-

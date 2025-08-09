@@ -1,0 +1,12 @@
+id,text
+columns,Amount(PKR)♣Recipient♣Date♣Location
+itemName,Payment
+systemName,Payment-Log
+action1,pay
+state1,payed
+action2,un-pay
+state2,pay
+columnDTypes,int♣str♣date♣str
+lastColumnAndItemRelation,with note
+secondColumnAndItemRelation,given in
+defaultColumnValues,NaN♣Unknown♣today♣-
