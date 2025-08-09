@@ -1,3 +1,7 @@
+IMPORTANT
+catalogue.py is the original app. However, it requires some configuration and may be unstable.
+catalog2.py has been redesigned from the ground up and is the latest stable version.
+
 Supported environments: Windows 10/11
 The application will not function as expected on MacOS and has not been tested on Linux
 
