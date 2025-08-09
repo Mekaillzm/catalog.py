@@ -1,0 +1,165 @@
+,Item,Amount,Quantity,Date,Type,Note,Tag
+0,Books,5990.0,5.0,2022-09-21 23:59:54.197613,Expenditure,For School,School
+1,Pencils,350.0,3.0,2022-09-22 00:00:30.862148,Expenditure,For School,School
+2,Past Paper Books,3060.0,3.0,2022-09-22 00:06:16.089465,Expenditure,For School,School
+3,Lab Coat,380.0,1.0,2022-09-22 00:06:50.301211,Expenditure,For School,School
+4,Maths Past Paper Book,900.0,1.0,2022-09-22 00:07:05.003424,Expenditure,For School,School
+5,Chemistry Paper 3 Handbook,2000.0,1.0,2022-09-22 00:07:25.205399,Expenditure,For School,School
+6,Daewoo Bus Tickets,3400.0,2.0,2022-09-22 00:07:50.902252,Expenditure,Multan Trip,Transport
+7,Watch Battery,800.0,1.0,2022-09-22 00:08:36.155632,Expenditure,Replacement,Tech
+8,Lined Pages,175.0,1.0,2022-09-22 00:09:18.517852,Expenditure,For School,School
+9,PYPT entry,6500.0,1.0,2022-09-27 13:31:15.993679,Expenditure,Physics Research Contest,Event
+10,Physics Paper 3 Handbook,1500.0,1.0,2022-10-26 23:54:13.584850,Expenditure,For School,School
+11,School Qawali Ticket,1000.0,1.0,2022-10-29 00:36:01.368824,Expenditure,School event,Event
+12,Screen Protector,500.0,1.0,2022-10-30 23:10:26.178396,Expenditure,For Phone,Phone
+13,Sweater,1450.0,1.0,2022-11-01 20:11:37.370138,Expenditure,For School,School
+14,Blazer,7000.0,1.0,2022-11-01 20:13:21.100350,Expenditure,For School,School
+15,Ball Points,200.0,10.0,2022-11-01 20:13:56.020304,Expenditure,For School,School
+16,LGS Cantt MUN ticket,2500.0,1.0,2022-11-07 14:01:38.385303,Expenditure,Contest,Event
+17,Past Paper Books Returned,-730.0,2.0,2022-11-15 22:44:06.674105,Refund,"Wrong Books, Had To Be Returned (physics P2 + Chem P2 Pure)",School
+18,Chemistry P1 past paper book,1685.0,1.0,2022-11-15 22:44:39.673699,Expenditure,For School,School
+19,Chemistry paper 2 past paper book,2090.0,1.0,2022-11-15 22:45:27.133801,Expenditure,For School,School
+20,Physics P2 past paper book,2000.0,1.0,2022-11-15 22:49:01.284204,Expenditure,For school,School
+21,KFC,1000.0,1.0,2022-11-16 22:50:21.108351,Expenditure,-,Food
+22,Daewoo Bus Tickets,2350.0,1.0,2022-11-19 09:16:00.199490,Expenditure,Lahore to Islamabad,Transport
+23,Daewoo Bus Tickets,1790.0,1.0,2022-12-03 20:46:29.361562,Expenditure,Multan to Lahore,Transport
+24,Psi Fi Ticket,6500.0,1.0,2022-12-03 20:48:07.004496,Expenditure,Will Hopefully Be Refunded,Event
+25,Daewoo Bus Tickets,1790.0,1.0,2022-12-05 21:40:02.886752,Expenditure,Multan to Lahore,Transport
+26,LUMUN ticket,4500.0,1.0,2023-01-10 20:58:50.419258,Expenditure,-,Event
+27,A4 Notebook,2820.0,3.0,2023-01-15 14:15:30.953040,Expenditure,For School,School
+28,Ball Points,400.0,20.0,2023-01-15 15:06:50.987685,Expenditure,"Picasso Oria Red Ball, exchanged for blue",School
+29,Lined Pages,200.0,8.0,2023-01-15 15:09:37.484749,Expenditure,-,School
+30,Pencils,170.0,12.0,2023-01-15 15:10:31.298207,Expenditure,Box of HB Pencils,School
+31,Eraser,50.0,1.0,2023-01-15 15:10:47.221842,Expenditure,-,School
+32,Weights,4000.0,1.0,2023-01-15 15:17:34.033128,Expenditure,pair of 10 kg weights,Exercise
+33,KFC,1140.0,1.0,2023-01-24 21:07:32.159643,Expenditure,-,Food
+34,Cinema Expenditure,2300.0,1.0,2022-12-06 23:26:04.859524,Expenditure,Ticket+popcorn at cue cinema,Cinema
+35,Cinema Expenditure,1000.0,1.0,2022-10-12 00:00:00.000000,Expenditure,Ticket+popcorn At Cinepax,Cinema
+36,Mobile Top-up,2010.0,1.0,2023-02-10 21:00:12.260930,Expenditure,Accidentally Put Way Too Much,Phone
+37,Tim Horton's,360.0,1.0,2023-02-15 20:18:40.935720,Expenditure,A donut and a tiny donut,Food
+38,Hardee's,2000.0,1.0,2023-02-15 20:19:45.971675,Expenditure,1 Burger And Curly Fries,Food
+39,ISL Farewell Ticket,3000.0,1.0,2023-02-16 14:53:57.362621,Expenditure,:=(,School
+40,Loan,1500.0,1.0,2023-02-17 11:11:54.985177,Loan,Repaid; Given to Rehan Siddique,Loan
+41,McDonalds,530.0,1.0,2023-02-17 19:29:15.821702,Expenditure,Iced Mocca,Food
+42,Daewoo Bus Tickets,2340.0,1.0,2023-02-22 12:44:21.230077,Expenditure,Islamabad to Lahore,Transport
+43,Layers,200.0,1.0,2023-02-22 12:44:40.354771,Expenditure,Cupcake,Food
+44,Cinema Expenditure,1000.0,1.0,2023-02-22 12:47:06.616129,Expenditure,Ticket+popcorn for winnie the pooh,Cinema
+45,Maths Past Paper Book,1000.0,1.0,2023-03-11 07:47:49.291148,Expenditure,Maths P3,School
+46,Nightsuit Shirt,1700.0,2.0,2023-03-28 06:10:17.459014,Expenditure,-,Clothes
+47,People Playground,1475.0,1.0,2023-04-02 06:10:14.450859,Expenditure,Gift For Aalia,Video Game
+48,T-Shirt,4200.0,1.0,2023-04-03 14:17:41.027780,Expenditure,-,Clothes
+49,Daewoo Bus Tickets,3880.0,2.0,2023-03-27 14:40:30.074425,Expenditure,Lhr to mtn and back,Transport
+50,Cinema Expenditure,1800.0,1.0,2023-04-09 20:59:10.020160,Expenditure,DnD at Cue Cinemas,Cinema
+51,Death and Taxes,1000.0,1.0,2023-04-20 23:43:03.614669,Expenditure,"1970, split with Laila; gift for mustafa",Video Game
+52,Cinema Expenditure,2000.0,1.0,2023-04-27 18:13:57.381890,Expenditure,Evil Dead Rise at cinepax,Cinema
+53,Toothpaste,1000.0,3.0,2023-04-27 18:14:13.898962,Expenditure,-,Toiletries
+54,Dumbbell Plates,8900.0,8.0,2023-05-06 17:56:00.507897,Expenditure,Pairs Of 4 & 5 Kg + 2 Pairs Of 2 Kg,Exercise
+55,Toothbrush,125.0,3.0,2023-05-06 17:56:54.686571,Expenditure,-,Toiletries
+56,Dove Soap,1077.0,3.0,2023-05-06 17:57:33.997528,Expenditure,-,Toiletries
+57,Dumbbell Rod,940.0,1.0,2023-05-06 17:58:01.961143,Expenditure,1 investment to end them all,Exercise
+58,Haircut,450.0,1.0,2023-05-15 18:34:26.562756,Expenditure,-,Self Care
+59,Mobile Top-up,393.0,1.0,2023-05-21 21:21:37.404354,Expenditure,-,Phone
+60,Ball Points,200.0,6.0,2023-05-29 16:07:48.795379,Expenditure,-,School
+61,AA Batteries,575.0,2.0,2023-05-29 16:08:31.078463,Expenditure,Energizer,Misc
+62,Clip Files,990.0,2.0,2023-05-29 16:09:23.388610,Expenditure,-,Misc
+63,Button Folders,280.0,2.0,2023-05-29 16:09:40.316777,Expenditure,-,Misc
+64,Shopping Bags,140.0,4.0,2023-05-29 16:10:00.110970,Expenditure,"one small, 2x 20 kg, 1x 40 kg",Misc
+65,Plastic Box,350.0,1.0,2023-05-29 16:12:28.224208,Expenditure,-,Misc
+66,Plastic Trays,350.0,3.0,2023-05-29 16:12:51.997738,Expenditure,-,Misc
+67,Micro-USB Cable,600.0,1.0,2023-05-29 16:13:37.117415,Expenditure,-,Tech
+68,Cinema Tickets,1600.0,2.0,2023-06-04 15:10:26.058718,Expenditure,Spider-Man accross the multiverse,Cinema
+69,Cinema Expenditure,1450.0,1.0,2023-06-11 21:51:02.513548,Expenditure,350 owed by Hassan Waheed,Cinema
+70,KFC,695.0,1.0,2023-06-11 21:53:46.996216,Expenditure,Packages Mall,Food
+71,Coffee,897.0,1.0,2023-06-11 21:54:30.686472,Expenditure,Coffee Bean at Packages Mall,Food
+72,Funco,800.0,1.0,2023-06-11 21:57:12.384427,Expenditure,1 hr and socks,Entertainment
+73,Baskin Robbin's,470.0,1.0,2023-06-12 15:58:38.229748,Expenditure,1 scoop for Laila,Food
+74,Wooden Spoons,2000.0,4.0,2023-06-28 23:39:17.681606,Expenditure,-,Gift
+75,Marble Figures,200.0,2.0,2023-06-29 23:39:33.735839,Expenditure,-,Gift
+76,Wallet,2300.0,1.0,2023-07-09 23:41:31.135618,Expenditure,-,Misc
+77,Uptown LA,1000.0,1.0,2023-07-12 23:42:24.385617,Expenditure,Bowling,Entertainment
+78,KFC,0.0,1.0,2023-07-12 23:43:02.972593,Expenditure,Rs 820 owed to Haider Iqbal,Food
+79,Mouse,2000.0,1.0,2023-08-13 18:48:38.653405,Expenditure,bloody,Tech
+80,RAM stick,6000.0,1.0,2023-08-13 18:49:41.921535,Expenditure,8 GB Team Group Elite DDR4,Tech
+81,Loafology,550.0,1.0,2023-08-14 17:39:36.013934,Expenditure,Croissant,Food
+82,Null,1000.0,0.0,2023-09-06 16:47:09.486760,Expenditure,1000 PKR lost,Facepalm
+83,Pizza,400.0,1.0,2023-09-06 16:48:02.707303,Expenditure,school canteen,Food
+84,Water Bottle,100.0,2.0,2023-09-06 16:48:26.752091,Expenditure,-,Food
+85,Shampoo,2720.0,3.0,2023-09-07 16:29:41.164477,Expenditure,active coal-,Toiletries
+86,Haircut,500.0,1.0,2023-09-08 12:53:01.028506,Expenditure,-,Self Care
+87,Croissants,1800.0,3.0,2023-09-09 23:34:40.572819,Expenditure,-,Food
+88,Coloured Photocopies,120.0,3.0,2023-09-18 21:38:25.188776,Expenditure,ID card + passport for IELTS,Misc
+89,Baskin Robbin's,470.0,1.0,2023-09-18 21:38:38.296385,Expenditure,-,Food
+90,Daewoo Bus Tickets,4630.0,2.0,2023-09-25 23:50:10.928823,Expenditure,Lhr to mtn and back,Transport
+91,Gloves,1000.0,1.0,2023-09-25 23:51:03.048469,Expenditure,-,Exercise
+92,Doughnut,250.0,1.0,2023-09-28 21:43:37.058743,Expenditure,-,Food
+93,FNAF Security Breach,4315.0,1.0,2023-10-01 17:52:39.941648,Expenditure,Gift for Abdullah,Video Game
+94,Goethe A2,28000.0,1.0,2023-10-05 12:57:04.378429,Expenditure,-,Misc
+95,Kingston 64GB USB,1500.0,1.0,2023-10-06 13:17:23.682126,Expenditure,-,Tech
+96,A Level English Coursebook,2200.0,1.0,2023-10-06 13:17:51.078188,Expenditure,;,School
+97,A level Chemistry Paper 4 past paper book,2690.0,1.0,2023-10-06 13:18:50.539982,Expenditure,;,School
+98,Dumbbell Rod,750.0,1.0,2023-10-06 13:19:14.325820,Expenditure,replacement,Exercise
+99,Pen,280.0,12.0,2023-10-27 17:40:49.352111,Expenditure,-,School
+100,Button Folders,100.0,2.0,2023-10-27 17:42:50.899057,Expenditure,-,Misc
+101,Zip Folders,300.0,2.0,2023-10-27 17:43:07.713006,Expenditure,-,Misc
+102,Notebook,2685.0,3.0,2023-10-27 17:43:53.432364,Expenditure,-,School
+103,A level mathematics Paper 4 past paper book,1030.0,1.0,2023-10-27 17:44:24.117238,Expenditure,;,School
+104,ACLLF entry,2000.0,1.0,2023-11-03 14:48:25.712051,Expenditure,-,Event
+105,Food at ACLLF,500.0,2.0,2023-11-04 14:48:57.895594,Expenditure,-,Food
+106,School Shoes,7000.0,1.0,2023-11-02 14:50:22.832855,Expenditure,-,School
+107,Mandarin Kitchen,5000.0,1.0,2023-11-07 18:59:57.259937,Expenditure,-,Food
+108,Pen,135.0,9.0,2023-12-04 21:32:39.476302,Expenditure,-,School
+109,CIE certificate scan,110.0,6.0,2023-12-04 21:34:13.585202,Expenditure,-,School
+110,Rough Copy,580.0,2.0,2023-12-04 21:35:21.305122,Expenditure,-,School
+111,CIE certificate print,170.0,2.0,2023-12-04 21:39:06.499084,Expenditure,-,School
+112,Charcoal,1500.0,6.0,2023-11-14 21:41:14.928504,Expenditure,Was supposed to be repaid by nana,Food
+113,Disposable Supplies,2421.0,1.0,2023-11-14 21:43:52.638586,Expenditure,15 November food fest; partially reimbursed,School
+114,Printout,60.0,4.0,2023-12-11 14:35:16.525855,Expenditure,-,School
+115,Harvard Crimson Essay Contest,3183.0,1.0,2023-12-21 01:03:59.540565,Expenditure,-,School
+116,Oyster Sauce,1350.0,1.0,2023-12-21 01:09:14.506139,Expenditure,-,Food
+117,Big Moe's,2150.0,1.0,2023-12-31 14:32:14.954104,Expenditure,-,Food
+118,Gustoso's Doughnut,300.0,1.0,2023-12-31 14:41:44.629282,Expenditure,-,Food
+119,Type C Charger,1800.0,1.0,2024-01-09 00:20:11.401579,Expenditure,-,Tech
+120,Pizza Slice,1000.0,4.0,2024-01-09 23:44:29.263626,Expenditure,-,Food
+121,Cheerios,1000.0,1.0,2024-01-13 23:45:34.516049,Expenditure,-,Food
+122,ISL Annual Trip Ticket,38500.0,1.0,2024-01-17 19:35:17.749371,Expenditure,To Malam Jabba,Event
+123,Olper's Powdered Milk,1840.0,2.0,2024-01-17 19:36:30.376750,Expenditure,ISL Culinary Society Stuff,Food
+124,Post Great Grains Cereal,1000.0,1.0,2024-01-19 22:18:35.907518,Expenditure,-,Food
+125,The Silent Patient,1258.0,1.0,2024-02-03 17:55:38.978503,Expenditure,gift for laila,Book
+126,Wrapping Paper,80.0,1.0,2024-02-03 17:55:59.713438,Expenditure,-,Gift
+127,MMI Battery Pack,3500.0,1.0,2024-02-03 17:57:31.892047,Expenditure,-,Tech
+128,Hiarcut,600.0,1.0,2024-02-03 18:02:19.106053,Expenditure,-,Self Care
+129,Chocolate,1000.0,4.0,2024-02-03 18:02:55.735639,Expenditure,-,Snack
+130,Macho's Nachos,400.0,5.0,2024-02-03 18:04:09.731017,Expenditure,-,Snack
+131,Peanuts,100.0,2.0,2024-02-03 18:04:40.109447,Expenditure,-,Snack
+132,A Level Mathematics Paper 5 Past Paper Book,1050.0,1.0,2024-02-03 18:06:06.088460,Expenditure,;,School
+133,Clear Pouch,130.0,1.0,2024-02-03 18:06:45.894715,Expenditure,-,Misc
+134,NDure Boots,6000.0,1.0,2024-02-03 18:07:14.757482,Expenditure,-,Clothes
+135,Medicines,500.0,4.0,2024-02-03 18:09:39.214704,Expenditure,-,Medication
+136,Dove Soap,1140.0,3.0,2024-02-03 18:11:47.922587,Expenditure,-,Self Care
+137,Nutrilov Crunchy Cereal,1051.0,1.0,2024-02-03 18:13:36.776048,Expenditure,-,Food
+138,Breakout Gloves,1500.0,1.0,2024-02-03 18:14:05.563167,Expenditure,-,Clothes
+139,Rough Copy,1540.0,3.0,2024-02-03 18:14:21.757649,Expenditure,-,School
+140,Zong Bolt+ Top Up,500.0,1.0,2024-02-04 01:19:31.338419,Expenditure,-,Phone
+141,Marco's Bistro burger,1900.0,1.0,2024-02-10 12:39:34.289384,Expenditure,-,Food
+142,Gloria Jean's Pizza,2170.0,1.0,2024-02-10 12:40:35.751801,Expenditure,-,Food
+143,Gloria Jean's brownie,700.0,1.0,2024-02-10 12:45:59.745578,Expenditure,-,Food
+144,Marco's Bistro Manchurian,1830.0,1.0,2024-02-10 13:05:52.841660,Expenditure,disgusting,Food
+145,Cold Coffee,700.0,1.0,2024-02-10 13:07:39.278746,Expenditure,-,Food
+146,Chicken Broast Bhera South,1660.0,1.0,2024-02-10 13:13:58.939624,Expenditure,-,Food
+147,Hardee's,690.0,1.0,2024-02-10 13:23:39.217596,Expenditure,Strawberry shake,Food
+148,McDonalds,1680.0,1.0,2024-02-08 01:06:03.075328,Expenditure,No choice :/,Event
+149,Scimatics VI Ticket,3000.0,1.0,2024-02-17 17:06:18.599768,Expenditure,-,Food
+150,food at Scimatics,500.0,1.0,2024-02-17 17:09:42.870661,Expenditure,-,Food
+151,Mobile Top-up,400.0,1.0,2024-02-11 01:13:03.847318,Expenditure,-,Phone
+152,Small Pizza,400.0,1.0,2024-02-20 18:12:12.075230,Expenditure,school canteen,Food
+153,KFC,2200.0,1.0,2024-04-12 22:39:33.389097,Expenditure,-,Food
+154,Pencil Case,150.0,1.0,2024-04-13 22:40:04.718728,Expenditure,-,School
+155,Pen,460.0,23.0,2024-04-13 22:40:26.558871,Expenditure,-,School
+156,Stationary,60.0,60.0,2024-04-13 22:40:54.415404,Expenditure,2 rubbers and a sharpner,School
+157,Protein Powder,14700.0,1.0,2024-04-21 01:48:29.684162,Expenditure,-,Exercise
+158,Passport Sized Picture,500.0,4.0,2024-04-27 13:05:32.680820,Expenditure,-,Misc
+159,Keybooard Repair,500.0,1.0,2024-04-27 13:06:04.987108,Expenditure,-,Tech
+160,Naan,0.0,5.0,2024-04-29 00:22:48.858653,Expenditure,500 loaned to Alia khala,Food
+161,100 USD Note,27800.0,1.0,2024-05-08 18:01:01.668152,Expenditure,-,Savings
+162,NUST Application,5160.0,1.0,2024-05-10 22:33:50.886745,Expenditure,-,School
+163,Brim Burgers,3120.0,2.0,2024-05-13 18:40:43.205528,Expenditure,-,Food
