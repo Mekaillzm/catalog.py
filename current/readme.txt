@@ -2,6 +2,9 @@ IMPORTANT
 catalogue.py is the original app. However, it requires some configuration and may be unstable.
 catalog2.py has been redesigned from the ground up and is the latest stable version.
 
+catalog2.py is itself a package that must be imported.
+To run it, use catalog(filename) or catalog()
+
 Supported environments: Windows 10/11
 The application will not function as expected on MacOS and has not been tested on Linux
 
@@ -19,3 +22,5 @@ The package includes a class, catalog, which can be called in two ways:
 If the file directory is specified, the file will be read directly.
 2. catalog()
 If no information is specified, or the file cannot be found, the user will be prompted to open a file.
+
+By default, the application searches for this directory to store data in
